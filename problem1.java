@@ -34,3 +34,8 @@ public class Main
 		
 	}
 }
+
+
+// /time and space complexity
+// Time Complexity: O(N) - We are iterating from 1 to N.
+// Space Complexity: O(1) - We are using a constant amount of space.
